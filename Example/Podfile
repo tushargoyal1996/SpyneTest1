@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SpyneTest1_Example' do
+  pod 'SpyneTest1', :path => '../'
+
+  target 'SpyneTest1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
