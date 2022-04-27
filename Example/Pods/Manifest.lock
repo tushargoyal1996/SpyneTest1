@@ -1,0 +1,16 @@
+PODS:
+  - SpyneTest1 (0.1.0)
+
+DEPENDENCIES:
+  - SpyneTest1 (from `../`)
+
+EXTERNAL SOURCES:
+  SpyneTest1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SpyneTest1: c1eb37551f1e2b2b32b8efd66755e8b8113ffd7c
+
+PODFILE CHECKSUM: d0442d04b2e76f61b41018b4177f1c2621e18c5c
+
+COCOAPODS: 1.11.2
